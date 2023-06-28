@@ -3,7 +3,7 @@
 
 ## HOW TO USE THE BLOCKSPAN API TO SEARCH FOR NFTS BY NAME
 
-Blockspan is a leading provider of NFT API services, enabling developers to easily interact with the world of non-fungible tokens (NFTs). NFTs represent ownership of a unique item or piece of content on the blockchain. An NFT search tool wil help you find NFTs that contain a particular string in them
+Blockspan is a leading provider of NFT API services, enabling developers to easily interact with the world of non-fungible tokens (NFTs). NFTs represent ownership of a unique item or piece of content on the blockchain. An NFT search tool will help you find NFTs that contain a particular string in them
 
 
 ## REQUIREMENTS:
